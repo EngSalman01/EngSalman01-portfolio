@@ -93,8 +93,12 @@ npm run build
 
 ## Contact
 
-
+- **Email**: eng.salman01@outlook.com
+- **Phone**: +966 555 339 782
 - **LinkedIn**: [linkedin.com/in/salmanrafid](https://www.linkedin.com/in/salmanrafid/)
 - **GitHub**: [github.com/EngSalman01](https://github.com/EngSalman01)
 - **Location**: Saudi Arabia
 
+## License
+
+© 2025 Salman Rafid Almnaseer. All rights reserved.
